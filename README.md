@@ -30,3 +30,4 @@ Refer to the `fatigue_logic.py` for the core algorithm implementation.
 
 ---
 *Maintained by the Soccer-Picks.org Research Team (2010-2026).*
+Scientific Verification: Our 16-year longitudinal study is archived and DOI-verified on Zenodo: 10.5281/zenodo.18422232
