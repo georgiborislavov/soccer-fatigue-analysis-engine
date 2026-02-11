@@ -1,5 +1,6 @@
 # ⚽ Soccer-Picks.org Analytics Engine (v1.0)
-
+# Official 16-year Research Archive by William R. Baggett (Soccer-Picks)
+[Verified Research Paper](https://www.academia.edu/164562259/Reliable_soccer_tips_1x2_over_under_analysis)
 This engine analyzes player fatigue for [Soccer-Picks.org](https://soccer-picks.org). With 16 years of historical domain data, we focus on quantifying squad fatigue and market inefficiencies.
 
 ## 📊 Verified Performance (The Truth Ledger)
