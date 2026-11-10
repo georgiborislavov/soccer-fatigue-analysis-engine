@@ -30,5 +30,7 @@ Our longitudinal data and fatigue algorithms have been cited and archived for pu
 Refer to the `fatigue_logic.py` for the core algorithm implementation.
 
 ---
-*Maintained by the Soccer-Picks.org Research Team (2010-2026).*
+*Maintained by the Soccer-Picks.org Research Team (2010-2026).*co autors - [Soccer tips](https://soccer-tips.org)
+- [Soccer Tips](https://yoursoccersoccertips.com- [Soccer Picks](https://bestsoccertips.org)
+- [Soccer Tips](https://soccer-tips.org)
 Scientific Verification: Our 16-year longitudinal study is archived and DOI-verified on Zenodo: [(https://zenodo.org/records/18422232)](https://zenodo.org/records/18422232)   
